@@ -1,4 +1,4 @@
-### Hola, I'm Anvay Abhirraj  👋
+### Hola, I'm Anvay Abhiraaj  👋
 
 - 🔭 I’m currently working on "Autoencoders"
 - 🌱 I’m currently learning ... "DeepLearning" "GAN" 
